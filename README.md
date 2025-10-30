@@ -35,6 +35,11 @@ def main():
 
     print(f"\nPlik został zapisany jako: {output_file}")
 
-
+#############################
+W pliku in.csv date: 
+drzwi,3,7,0
+kanapka,12,5,1
+pedzel,22,34,5
+plakat,czerwony,8,kij
 if __name__ == "__main__":
     main()
